@@ -1,0 +1,13 @@
+		Welcome at Devansh's store
+
+BILL NUMBER     : 6295
+Customer Name   : cc
+Customer Number : 23
+*********************************************************
+ Products			Quantity		Price
+*********************************************************
+ MS Office 			1		2000
+*********************************************************
+ Hardware Tax			Software Tax		Processor Tax
+ Rs. 0.0			Rs. 140.0		Rs. 0.0
+*********************************************************

@@ -1,0 +1,15 @@
+		Welcome at Devansh's store
+
+BILL NUMBER     : 7145
+Customer Name   : hh
+Customer Number : 5632
+*********************************************************
+ Products			Quantity		Price
+*********************************************************
+ Smart Watch 			1		5000
+ coraldraw 			1		700
+ Intel i3 			1		4000
+*********************************************************
+ Hardware Tax			Software Tax		Processor Tax
+ Rs. 250.0			Rs. 49.00000000000001		Rs. 360.0
+*********************************************************
